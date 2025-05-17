@@ -1,0 +1,43 @@
+.titulo{
+    font-family: Helvetica;
+    text-align: center;
+    color: #014a58 ;
+}
+.paragrafo{
+    text-align: justify;
+    font-size: 18px;
+    color: #333333;
+}
+.hobbie{
+    border-radius: 20px ;
+}
+td{
+    font-style: oblique;
+    border-style: double;
+    border-color: rgb(252, 181, 100);
+}
+.países{
+    background-color: rgb(243, 226, 179);
+    text-align: center;
+    width: 120px;
+    height: 105px;
+    border-style: double;
+}
+body{
+    background-color: rgb(#b4b4b4);
+ }
+li{  margin: 15px; 
+}
+a {
+   color: #014a58;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+#msg {
+    display: none;
+    margin-top: 10px;
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(78, 9, 240);
+}
